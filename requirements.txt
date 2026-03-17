@@ -1,0 +1,6 @@
+openai-whisper
+gradio
+torch
+transformers
+sentence-transformers
+ffmpeg-python
